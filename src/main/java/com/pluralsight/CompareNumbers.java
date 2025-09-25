@@ -20,4 +20,5 @@ public class CompareNumbers {
         return number > 0;
     }
 
+
 }
